@@ -1,0 +1,85 @@
+[
+    {
+        "titre": "InfoStat",
+        "date": "2023",
+        "description": "Ce projet Django fonctionne comme une plate-forme complète pour consulter et générer divers types de graphiques et articles comme Statista.",
+        "techno": [
+            "Python",
+            "Django",
+            "HTML",
+            "JavaScript",
+            "Tailwind CSS",
+            "PlotLy"
+        ],
+        "demo": "media/demo/infostat_demo.gif",
+        "type": "personnel",
+        "github_link": "https://github.com/elebras1/InfoStat"
+    },
+    {
+        "titre": "EbookVerse",
+        "date": "2023",
+        "description": "Ce projet symfony est un site web de gestion de livres avec des fonctionnalités telles que la recherche de livres, la lecture en ligne, l'ajout/modification de livres et d'auteurs, un espace utilisateur et administrateur, et une salle de discussion.",
+        "techno": [
+            "Symfony",
+            "PHP",
+            "HTML",
+            "Tailwind CSS",
+            "Epub.js"
+        ],
+        "demo": "media/demo/ebookverse_demo.gif",
+        "type": "personnel",
+        "github_link": "https://github.com/elebras1/EbookVerse"
+    },
+    {
+        "titre": "Padlet",
+        "date": "2023",
+        "description": "Ce projet web php a été développée dans le but de mettre en ligne des ressources pour les membres d'une association de course à pied.",
+        "techno": [
+            "PHP",
+            "HTML",
+            "Bootstrap"
+        ],
+        "type": "scolaire",
+        "demo": "media/demo/padlet_demo.gif",
+        "github_link": "https://github.com/elebras1/Padlet"
+    },
+    {
+        "titre": "Portfolio",
+        "date": "2023",
+        "description": "Le site sur lequelle vous vous trouvez actuellement, vous pouvez consulter mes projets, mes compétences et me contacter!.",
+        "techno": [
+            "HTML",
+            "CSS",
+            "JavaScript",
+            "JSON",
+            "particles.js"
+        ],
+        "type": "personnel",
+        "demo": "media/demo/portfolio_img.png",
+        "github_link": "https://github.com/elebras1/Portfolio"
+    },
+    {
+        "titre": "Space Invaders",
+        "date": "2022",
+        "description": "Space Invaders est un jeu d'arcade classique où le joueur contrôle un vaisseau spatial et doit détruire les envahisseurs extraterrestres qui descendent progressivement vers lui.",
+        "techno": [
+            "Python",
+            "Tkinter"
+        ],
+        "type": "scolaire",
+        "demo": "media/demo/space_invaders_demo.gif",
+        "github_link": "https://github.com/elebras1/Space_invaders"
+    },
+    {
+        "titre": "EN COURS VictoriaLike",
+        "date": "2023",
+        "description": "L'objectif est de réaliser une version simplifiée du jeu Victoria 2 qui est un jeu de grande stratégie centré sur l'économie et le commerce.",
+        "techno": [
+            "Python",
+            "Pygame"
+        ],
+        "type": "personnel",
+        "demo": "media/demo/victorialike_screen.png",
+        "github_link": "https://github.com/elebras1/VictoriaLike"
+    }
+]

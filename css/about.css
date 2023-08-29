@@ -1,0 +1,46 @@
+#about_section {
+    max-width: 1200px;
+    margin: 0 auto;
+    width: 75%;
+}
+
+#content_about img {
+    width: 200px;
+    height: 200px;
+    margin-right: 150px;
+}
+
+#content_about {
+    display: flex;
+    margin-top: 35px;
+}
+
+#content_about_text {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+#content_about_text p {
+    margin-top: 10px;
+}
+
+.content_project:last-child {
+    margin-bottom: 80px;
+}
+
+@media screen and (max-width:1024px) {
+    #content_about {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+
+    #content_about img {
+        margin-right: 0px;
+    }
+}
+
+.about_link {
+    text-decoration: #F8DE22 underline;
+}

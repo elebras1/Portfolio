@@ -1,0 +1,31 @@
+#content_contact {
+    margin-top: 35px;
+    display: flex;
+}
+
+.contact_link {
+    box-shadow: 0px 0px 15px 5px rgba(0, 0, 0, 0.1);
+    margin-bottom: 15px;
+    padding: 8px;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    margin: 10px;
+}
+
+.contact_link img {
+    width: 50px;
+    height: 50px;
+}
+
+.contact_link a {
+    color: inherit;
+}
+
+.contact_link span {
+    color: black;
+}
+
+#mail a {
+    height: 50px;
+}

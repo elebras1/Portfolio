@@ -1,0 +1,92 @@
+#home_section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100vh;
+}
+
+#particles-js {
+    position: absolute;
+    z-index: 0;
+    background-color: #130f40;
+    background-image: linear-gradient(315deg, #130f40 0%, #000000 74%);
+    box-sizing: border-box;
+    height: 100vh;
+    width: 100vw;
+}
+
+#content_home {
+    position: absolute;
+    z-index: 1;
+    max-width: 1200px;
+    width: 75%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: white;
+    margin: 0 auto;
+    pointer-events: none;
+}
+
+.sentence1,
+.sentence2,
+.sentence3,
+.sentence4,
+.btn_cv {
+    pointer-events: auto;
+    opacity: 0;
+    transform: translateX(-30px);
+    transition: opacity 0.5s ease-in, transform 0.5s ease-in;
+}
+
+.sentence1 {
+    font-size: 20px;
+    transition-delay: 0.5s;
+    animation: fadeInUp 0.3s ease-in 0.5s forwards;
+}
+
+.sentence2 {
+    font-size: 50px;
+    margin-top: 20px;
+    transition-delay: 1.0s;
+    animation: fadeInUp 0.3s ease-in 1.0s forwards;
+}
+
+.sentence3 {
+    margin-top: 20px;
+    font-size: 25px;
+    transition-delay: 1.5s;
+    animation: fadeInUp 0.3s ease-in 1.55s forwards;
+}
+
+.sentence4 {
+    margin-top: 20px;
+    font-size: 15px;
+    transition-delay: 2.0;
+    animation: fadeInUp 0.3s ease-in 2.0s forwards;
+}
+
+.btn_cv {
+    color: black;
+    margin-top: 20px;
+    background-color: white;
+    padding: 15px;
+    border-radius: 25px;
+    width: 65px;
+    transition: background-color 0.1s, color 0.1s;
+    transition-delay: 2.5s;
+    animation: fadeInUp 0.3s ease-in 2.5s forwards;
+}
+
+.btn_cv.black {
+    color: white;
+    background-color: #F8DE22;
+    transition-delay: 0.1s;
+}
+
+.btn_cv.white {
+    color: black;
+    background-color: white;
+    transition-delay: 0.1s;
+}

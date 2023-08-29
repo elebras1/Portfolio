@@ -1,0 +1,86 @@
+[
+    {
+        "nom": "PHP",
+        "type": "language_back",
+        "logo": "media/logo/php.png",
+        "lien": "https://www.php.net/"
+    },
+    {
+        "nom": "Python",
+        "type": "language_back",
+        "logo": "media/logo/python.png",
+        "lien": "https://www.python.org/"
+    },
+    {
+        "nom": "Java",
+        "type": "language_back",
+        "logo": "media/logo/java.png",
+        "lien": "https://dev.java/"
+    },
+    {
+        "nom": "C",
+        "type": "language_back",
+        "logo": "media/logo/C.png",
+        "lien": "https://en.cppreference.com/w/c/language"
+    },
+    {
+        "nom": "SQL",
+        "type": "language_back",
+        "logo": "media/logo/sql.png",
+        "lien": "https://sql.sh/"
+    },
+    {
+        "nom": "HTML",
+        "type": "language_front",
+        "logo": "media/logo/html.png",
+        "lien": "https://developer.mozilla.org/fr/docs/Web/HTML"
+    },
+    {
+        "nom": "CSS",
+        "type": "language_front",
+        "logo": "media/logo/css.png",
+        "lien": "https://developer.mozilla.org/fr/docs/Web/CSS/Reference"
+    },
+    {
+        "nom": "Javascript",
+        "type": "language_front",
+        "logo": "media/logo/javascript.png",
+        "lien": "https://developer.mozilla.org/fr/docs/Web/JavaScript"
+    },
+    {
+        "nom": "Django",
+        "type": "framework",
+        "logo": "media/logo/django.png",
+        "lien": "https://www.djangoproject.com/"
+    },
+    {
+        "nom": "Symfony",
+        "type": "framework",
+        "logo": "media/logo/symfony.png",
+        "lien": "https://symfony.com/"
+    },
+    {
+        "nom": "Tailwind",
+        "type": "library",
+        "logo": "media/logo/tailwind.png",
+        "lien": "https://tailwindcss.com/"
+    },
+    {
+        "nom": "Bootstrap",
+        "type": "library",
+        "logo": "media/logo/bootstrap.png",
+        "lien": "https://getbootstrap.com/"
+    },
+    {
+        "nom": "Git",
+        "type": "versioning",
+        "logo": "media/logo/git.png",
+        "lien": "https://git-scm.com/"
+    },
+    {
+        "nom": "Github",
+        "type": "versioning",
+        "logo": "media/logo/github_black.png",
+        "lien": "https://github.com/"
+    }
+]
