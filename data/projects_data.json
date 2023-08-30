@@ -36,6 +36,7 @@
         "description": "Ce projet web php a été développée dans le but de mettre en ligne des ressources pour les membres d'une association de course à pied.",
         "techno": [
             "PHP",
+            "SQL",
             "HTML",
             "Bootstrap"
         ],
