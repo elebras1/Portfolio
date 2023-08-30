@@ -6,7 +6,7 @@ function update_background_images() {
     for (i = 0; i < contentProjects.length; i++) {
         const contentProjectDiv = contentProjects[i].querySelector(".content_project_div");
 
-        if (window.innerWidth < 1024) {
+        if (window.innerWidth < 900) {
             contentProjectDiv.style.backgroundImage = `url("${projects_data[i].demo}")`;
         } else {
             contentProjectDiv.style.backgroundImage = `none`;
