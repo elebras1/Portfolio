@@ -37,11 +37,13 @@ menu_mobile();
 
 
 function set_color_mouseover(element) {
-    element.style.color = '#F8DE22';
+    if (window.innerWidth >= 850)
+        element.style.color = '#F8DE22';
 };
 
 function set_color_mouseout(element) {
-    element.style.color = 'white';
+    if (window.innerWidth >= 850)
+        element.style.color = 'white';
 };
 
 var home = document.querySelector('.home a');
