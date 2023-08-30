@@ -22,7 +22,7 @@ function generate_projects(data) {
         projectContainer.classList.add("content_project");
 
         const projectHTML = `
-            <img class="gif" src="${project.demo}" />
+            <img class="gif" src="${project.demo}" alt="projet ${project.titre}"/>
             <div>
                 <span class="project_date_type">${project.date} - Projet ${project.type}</span>
                 <div class="content_project_div">
@@ -32,7 +32,7 @@ function generate_projects(data) {
                     </br>
                     <div class="content_project_lg_link">
                         <span class="content_project_text">${project.techno.join(' - ')}</span>
-                        <a target="_blank" href="${project.github_link}"><img src="media/logo/github_white.png"/></a>
+                        <a target="_blank" href="${project.github_link}"><img src="media/logo/github_white.png" alt="github"/></a>
                     </div>
                 </div>
             </div>
