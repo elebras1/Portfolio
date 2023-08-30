@@ -35,7 +35,7 @@ contactLinks.forEach((linkContainer) => {
     let timeoutId; // ID de temporisation
 
     linkContainer.addEventListener('mouseenter', () => {
-        if (!animationInProgress) {
+        if (window.innerWidth >= 850 && !animationInProgress) {
             timeoutId = setTimeout(() => {
                 animationInProgress = true;
                 animationType = 'in'; // Marque l'animation d'ajout en cours
