@@ -56,7 +56,7 @@
             "particles.js"
         ],
         "type": "personnel",
-        "demo": "media/demo/portfolio_img.png",
+        "demo": "media/demo/portfolio_img.webp",
         "github_link": "https://github.com/elebras1/Portfolio"
     },
     {
@@ -80,7 +80,7 @@
             "Pygame"
         ],
         "type": "personnel",
-        "demo": "media/demo/victorialike_screen.png",
+        "demo": "media/demo/victorialike_screen.webp",
         "github_link": "https://github.com/elebras1/VictoriaLike"
     }
 ]
