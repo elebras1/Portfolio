@@ -8,3 +8,10 @@
 A website that presents my projects
 
 ![padlet_demo](media/demo/portfolio_img.webp)
+
+## Link
+
+https://erwan-lebras.fr/
+
+## Licencing
+![licence](media/LICENCE.md)
