@@ -2,7 +2,6 @@ let projects_data = [];
 
 function color_skills() {
     var techno_elements = document.getElementsByClassName("techno");
-    console.log(techno_elements.length)
     for (var i = 0; i < techno_elements.length; i++) {
         techno_elements[i].addEventListener("mouseover", function () {
             this.style.backgroundColor = "#5B9A8B";
@@ -52,10 +51,11 @@ function generate_projects(data) {
                 </div>
             </div>
         `;
-        color_skills();
 
         projectContainer.innerHTML = projectHTML;
         projects_section.appendChild(projectContainer);
+
+        color_skills();
 
         update_background_images();
     }

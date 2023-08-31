@@ -1,13 +1,15 @@
 function animation_skills() {
     var skill_elements = document.getElementsByClassName("content_skill");
-    console.log(skill_elements.length)
     for (var i = 0; i < skill_elements.length; i++) {
         skill_elements[i].addEventListener("mouseover", function () {
-            this.style.margin = "10px 30px 30px 30px";
-            console.log("ok")
+            if (window.innerWidth >= 500) {
+                this.style.margin = "10px 30px 30px 30px";
+            }
         });
         skill_elements[i].addEventListener("mouseout", function () {
-            this.style.margin = "30px";
+            if (window.innerWidth >= 500) {
+                this.style.margin = "30px";
+            }
         });
     }
 }
@@ -49,3 +51,4 @@ fetch('./data/skills_data.json')
         generate_skills(data);
     })
     .catch(error => console.error(error));
+
