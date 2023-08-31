@@ -13,5 +13,8 @@ A website that presents my projects
 
 https://erwan-lebras.fr/
 
-## Licencing
-![licence](media/LICENCE.md)
+## Licence
+
+This project is licensed ![Licence MIT](https://img.shields.io/badge/Licence-MIT-blue.svg).
+
+For more details, please see the file [LICENSE](LICENSE.md).
