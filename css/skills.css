@@ -29,6 +29,7 @@
 
 .content_skill {
     margin: 30px;
+    transition: margin 0.3s ease;
 }
 
 .skill {
