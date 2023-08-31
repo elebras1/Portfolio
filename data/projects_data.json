@@ -4,12 +4,30 @@
         "date": "2023",
         "description": "Ce projet Django fonctionne comme une plate-forme complète pour consulter et générer divers types de graphiques et articles comme Statista.",
         "techno": [
-            "Python",
-            "Django",
-            "HTML",
-            "JavaScript",
-            "Tailwind CSS",
-            "PlotLy"
+            [
+                "Python",
+                "https://www.python.org/"
+            ],
+            [
+                "Django",
+                "https://www.djangoproject.com/"
+            ],
+            [
+                "HTML",
+                "https://developer.mozilla.org/fr/docs/Web/HTML"
+            ],
+            [
+                "JavaScript",
+                "https://developer.mozilla.org/fr/docs/Web/JavaScript"
+            ],
+            [
+                "Tailwind",
+                "https://tailwindcss.com/"
+            ],
+            [
+                "PlotLy",
+                "https://plotly.com/python/"
+            ]
         ],
         "demo": "media/demo/infostat_demo.gif",
         "type": "personnel",
@@ -20,11 +38,26 @@
         "date": "2023",
         "description": "Ce projet symfony est un site web de gestion de livres avec des fonctionnalités telles que la recherche de livres, la lecture en ligne, l'ajout/modification de livres et d'auteurs, un espace utilisateur et administrateur, et une salle de discussion.",
         "techno": [
-            "Symfony",
-            "PHP",
-            "HTML",
-            "Tailwind CSS",
-            "Epub.js"
+            [
+                "Symfony",
+                "https://symfony.com/"
+            ],
+            [
+                "PHP",
+                "https://www.php.net/"
+            ],
+            [
+                "HTML",
+                "https://developer.mozilla.org/fr/docs/Web/HTML"
+            ],
+            [
+                "Tailwind",
+                "https://tailwindcss.com/"
+            ],
+            [
+                "Epub.js",
+                "https://github.com/futurepress/epub.js"
+            ]
         ],
         "demo": "media/demo/ebookverse_demo.gif",
         "type": "personnel",
@@ -35,10 +68,22 @@
         "date": "2023",
         "description": "Ce projet web php a été développée dans le but de mettre en ligne des ressources pour les membres d'une association de course à pied.",
         "techno": [
-            "PHP",
-            "SQL",
-            "HTML",
-            "Bootstrap"
+            [
+                "PHP",
+                "https://www.php.net/"
+            ],
+            [
+                "SQL",
+                "https://sql.sh/"
+            ],
+            [
+                "HTML",
+                "https://developer.mozilla.org/fr/docs/Web/HTML"
+            ],
+            [
+                "Bootstrap",
+                "https://getbootstrap.com/"
+            ]
         ],
         "type": "scolaire",
         "demo": "media/demo/padlet_demo.gif",
@@ -49,11 +94,26 @@
         "date": "2023",
         "description": "Le site sur lequelle vous vous trouvez actuellement, vous pouvez consulter mes projets, mes compétences et me contacter!.",
         "techno": [
-            "HTML",
-            "CSS",
-            "JavaScript",
-            "JSON",
-            "particles.js"
+            [
+                "HTML",
+                "https://developer.mozilla.org/fr/docs/Web/HTML"
+            ],
+            [
+                "CSS",
+                "https://developer.mozilla.org/fr/docs/Web/CSS/Reference"
+            ],
+            [
+                "JavaScript",
+                "https://developer.mozilla.org/fr/docs/Web/JavaScript"
+            ],
+            [
+                "JSON",
+                "https://www.json.org/json-en.html"
+            ],
+            [
+                "particles.js",
+                "https://vincentgarreau.com/particles.js/"
+            ]
         ],
         "type": "personnel",
         "demo": "media/demo/portfolio_img.webp",
@@ -64,8 +124,14 @@
         "date": "2022",
         "description": "Space Invaders est un jeu d'arcade classique où le joueur contrôle un vaisseau spatial et doit détruire les envahisseurs extraterrestres qui descendent progressivement vers lui.",
         "techno": [
-            "Python",
-            "Tkinter"
+            [
+                "Python",
+                "https://www.python.org/"
+            ],
+            [
+                "Tkinter",
+                "https://docs.python.org/fr/3/library/tkinter.html"
+            ]
         ],
         "type": "scolaire",
         "demo": "media/demo/space_invaders_demo.gif",
@@ -76,8 +142,14 @@
         "date": "2023",
         "description": "L'objectif est de réaliser une version simplifiée du jeu Victoria 2 qui est un jeu de grande stratégie centré sur l'économie et le commerce.",
         "techno": [
-            "Python",
-            "Pygame"
+            [
+                "Python",
+                "https://www.python.org/"
+            ],
+            [
+                "Pygame",
+                "https://www.pygame.org/news"
+            ]
         ],
         "type": "personnel",
         "demo": "media/demo/victorialike_screen.webp",

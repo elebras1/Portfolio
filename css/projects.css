@@ -51,6 +51,24 @@
     height: 30px;
 }
 
+.list_techno {
+    display: flex;
+    flex-wrap: wrap;
+    color: white;
+}
+
+.techno {
+    background-color: #6cc2ae;
+    padding: 5px;
+    border-radius: 5px;
+    margin-right: 5px;
+    color: white;
+}
+
+.list_techno a {
+    margin-bottom: 5px;
+}
+
 .project_date_type {
     margin-left: 50px;
     font-size: 13px;

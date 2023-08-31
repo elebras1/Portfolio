@@ -1,5 +1,18 @@
 let projects_data = [];
 
+function color_skills() {
+    var techno_elements = document.getElementsByClassName("techno");
+    console.log(techno_elements.length)
+    for (var i = 0; i < techno_elements.length; i++) {
+        techno_elements[i].addEventListener("mouseover", function () {
+            this.style.backgroundColor = "#5B9A8B";
+        });
+        techno_elements[i].addEventListener("mouseout", function () {
+            this.style.backgroundColor = "#6cc2ae";
+        });
+    }
+}
+
 function update_background_images() {
     const contentProjects = document.querySelectorAll(".content_project");
 
@@ -31,12 +44,15 @@ function generate_projects(data) {
                     <span class="content_project_text">${project.description}</span>
                     </br>
                     <div class="content_project_lg_link">
-                        <span class="content_project_text">${project.techno.join(' - ')}</span>
+                        <div class="list_techno">
+                            ${project.techno.map(tech => `<a href="${tech[1]}" target="_blank"><div class="techno">${tech[0]}</div></a>`).join('')}
+                        </div>
                         <a target="_blank" href="${project.github_link}"><img src="media/logo/github_white.png" alt="github"/></a>
                     </div>
                 </div>
             </div>
         `;
+        color_skills();
 
         projectContainer.innerHTML = projectHTML;
         projects_section.appendChild(projectContainer);
