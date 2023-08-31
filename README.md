@@ -7,4 +7,4 @@
 # Portfolio
 A website that presents my projects
 
-![padlet_demo](media/demo/portfolio_img.png)
+![padlet_demo](media/demo/portfolio_img.webp)
