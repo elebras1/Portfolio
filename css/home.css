@@ -72,7 +72,7 @@
     margin-top: 20px;
     background-color: white;
     padding: 15px;
-    border-radius: 25px;
+    border-radius: 10px;
     width: 65px;
     transition: background-color 0.1s, color 0.1s;
     transition-delay: 2.5s;
