@@ -38,6 +38,10 @@
 
 }
 
+.content_title {
+    font-weight: 600;
+}
+
 
 .content_project_lg_link {
     display: grid;
