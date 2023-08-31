@@ -46,7 +46,7 @@ function generate_projects(data) {
                         <div class="list_techno">
                             ${project.techno.map(tech => `<a href="${tech[1]}" target="_blank"><div class="techno">${tech[0]}</div></a>`).join('')}
                         </div>
-                        <a target="_blank" href="${project.github_link}"><img src="media/logo/github_white.png" alt="github"/></a>
+                        <a target="_blank" href="${project.github_link}"><img src="media/logo/github_white.webp" alt="github"/></a>
                     </div>
                 </div>
             </div>
