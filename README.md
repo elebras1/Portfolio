@@ -17,4 +17,4 @@ https://erwan-lebras.fr/
 
 This project is licensed ![Licence MIT](https://img.shields.io/badge/Licence-MIT-blue.svg).
 
-For more details, please see the file [LICENSE](LICENSE.md).
+For more details, please see the file [LICENCE](LICENCE.md).
