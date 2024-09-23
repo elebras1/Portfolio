@@ -1,9 +1,9 @@
 [
     {
-        "nom": "PHP",
+        "nom": "Java",
         "type": "language_back",
-        "logo": "media/logo/php.webp",
-        "lien": "https://www.php.net/"
+        "logo": "media/logo/java.webp",
+        "lien": "https://dev.java/"
     },
     {
         "nom": "Python",
@@ -12,15 +12,15 @@
         "lien": "https://www.python.org/"
     },
     {
-        "nom": "Java",
+        "nom": "PHP",
         "type": "language_back",
-        "logo": "media/logo/java.webp",
-        "lien": "https://dev.java/"
+        "logo": "media/logo/php.webp",
+        "lien": "https://www.php.net/"
     },
     {
         "nom": "C",
         "type": "language_back",
-        "logo": "media/logo/C.webp",
+        "logo": "media/logo/c.webp",
         "lien": "https://en.cppreference.com/w/c/language"
     },
     {
@@ -54,6 +54,12 @@
         "lien": "https://www.djangoproject.com/"
     },
     {
+        "nom": "CodeIgniter",
+        "type": "framework",
+        "logo": "media/logo/codeigniter.webp",
+        "lien": "https://codeigniter.com/"
+    },
+    {
         "nom": "Symfony",
         "type": "framework",
         "logo": "media/logo/symfony.webp",
@@ -82,5 +88,11 @@
         "type": "versioning",
         "logo": "media/logo/github_black.webp",
         "lien": "https://github.com/"
+    },
+    {
+        "nom": "Gitlab",
+        "type": "versioning",
+        "logo": "media/logo/gitlab.webp",
+        "lien": "https://about.gitlab.com/"
     }
 ]

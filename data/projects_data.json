@@ -85,7 +85,7 @@
                 "https://getbootstrap.com/"
             ]
         ],
-        "type": "scolaire",
+        "type": "universitaire",
         "demo": "media/demo/padlet_demo.gif",
         "github_link": "https://github.com/elebras1/Padlet"
     },
@@ -122,7 +122,7 @@
     {
         "titre": "Space Invaders",
         "date": "2022",
-        "description": "Space Invaders est un jeu d'arcade classique où le joueur contrôle un vaisseau spatial et doit détruire les envahisseurs extraterrestres qui descendent progressivement vers lui.",
+        "description": "Space Invaders est un jeu d'arcade classique où le joueur contrôle un vaisseau spatial et doit détruire les envahisseurs extraterrestres qui descendent progressivement vers lui. Le projet a été réalisé en duo.",
         "techno": [
             [
                 "Python",
@@ -133,26 +133,8 @@
                 "https://docs.python.org/fr/3/library/tkinter.html"
             ]
         ],
-        "type": "scolaire",
+        "type": "universitaire",
         "demo": "media/demo/space_invaders_demo.gif",
         "github_link": "https://github.com/elebras1/Space_invaders"
-    },
-    {
-        "titre": "EN COURS VictoriaLike",
-        "date": "2023",
-        "description": "L'objectif est de réaliser une version simplifiée du jeu Victoria 2 qui est un jeu de grande stratégie centré sur l'économie et le commerce.",
-        "techno": [
-            [
-                "Python",
-                "https://www.python.org/"
-            ],
-            [
-                "Pygame",
-                "https://www.pygame.org/news"
-            ]
-        ],
-        "type": "personnel",
-        "demo": "media/demo/victorialike_screen.webp",
-        "github_link": "https://github.com/elebras1/VictoriaLike"
     }
 ]
