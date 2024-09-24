@@ -66,6 +66,18 @@
         "lien": "https://symfony.com/"
     },
     {
+        "nom": "JavaFx",
+        "type": "framework",
+        "logo": "media/logo/javafx.webp",
+        "lien": "https://openjfx.io/"
+    },
+    {
+        "nom": "jQuery",
+        "type": "library",
+        "logo": "media/logo/jquery.webp",
+        "lien": "https://jquery.com/"
+    },
+    {
         "nom": "Tailwind",
         "type": "library",
         "logo": "media/logo/tailwind.webp",

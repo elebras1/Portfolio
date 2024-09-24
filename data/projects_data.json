@@ -1,5 +1,23 @@
 [
     {
+        "titre": "ChatDistribué",
+        "date": "2024",
+        "description": "C'est un projet de Chat distribué en Java qui permet à plusieurs utilisateurs de communiquer en temps réel avec le protocole tcp/ip. Le projet a été réalisé en duo.",
+        "techno": [
+            [
+                "Java",
+                "https://dev.java/"
+            ],
+            [
+                "JavaFx",
+                "https://openjfx.io/"
+            ]
+        ],
+        "demo": "media/demo/chatdistribue.webp",
+        "type": "universitaire",
+        "github_link": "https://github.com/elebras1/ChatEnLigne"
+    },
+    {
         "titre": "InfoStat",
         "date": "2023",
         "description": "Ce projet Django fonctionne comme une plate-forme complète pour consulter et générer divers types de graphiques et articles comme Statista.",
