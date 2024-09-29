@@ -18,6 +18,40 @@
         "github_link": "https://github.com/elebras1/ChatEnLigne"
     },
     {
+        "titre": "EscapeWeb",
+        "date": "2023",
+        "description": "Ce projet CodeIgniter est une application web de jeux sérieux. L'objectif est qu'un utilisateur non connecté puisse participer à tous les scénarios créés par les organisateurs. Chaque scénario est composé d'étapes ; une étape est composée d'une question et d'un indice selon la difficulté choisie. L'administrateur s'occupe de la gestion des comptes.",
+        "techno": [
+            [
+                "CodeIgniter4",
+                "https://codeigniter.com/user_guide/intro/index.html"
+            ],
+            [
+                "PHP",
+                "https://www.php.net/"
+            ],
+            [
+                "HTML",
+                "https://developer.mozilla.org/fr/docs/Web/HTML"
+            ],
+            [
+                "Bootstrap",
+                "https://getbootstrap.com/"
+            ],
+            [
+                "SQL/PSM",
+                "https://sql.sh/"
+            ],
+            [
+                "MariaDB",
+                "https://mariadb.org/"
+            ]
+        ],
+        "demo": "media/demo/escapeweb_demo.gif",
+        "type": "universitaire",
+        "github_link": "https://github.com/elebras1/EscapeWeb"
+    },
+    {
         "titre": "InfoStat",
         "date": "2023",
         "description": "Ce projet Django fonctionne comme une plate-forme complète pour consulter et générer divers types de graphiques et articles comme Statista.",
@@ -45,6 +79,10 @@
             [
                 "PlotLy",
                 "https://plotly.com/python/"
+            ],
+            [
+                "MySQL",
+                "https://www.mysql.com/fr/"
             ]
         ],
         "demo": "media/demo/infostat_demo.gif",
@@ -54,7 +92,7 @@
     {
         "titre": "EbookVerse",
         "date": "2023",
-        "description": "Ce projet symfony est un site web de gestion de livres avec des fonctionnalités telles que la recherche de livres, la lecture en ligne, l'ajout/modification de livres et d'auteurs, un espace utilisateur et administrateur, et une salle de discussion.",
+        "description": "Ce projet symfony est une application web de gestion de livres avec des fonctionnalités telles que la recherche de livres, la lecture en ligne, l'ajout/modification de livres et d'auteurs, un espace utilisateur et administrateur, et une salle de discussion.",
         "techno": [
             [
                 "Symfony",
@@ -75,6 +113,10 @@
             [
                 "Epub.js",
                 "https://github.com/futurepress/epub.js"
+            ],
+            [
+                "MySQL",
+                "https://www.mysql.com/fr/"
             ]
         ],
         "demo": "media/demo/ebookverse_demo.gif",
@@ -101,6 +143,10 @@
             [
                 "Bootstrap",
                 "https://getbootstrap.com/"
+            ],
+            [
+                "MariaDB",
+                "https://mariadb.org/"
             ]
         ],
         "type": "universitaire",
@@ -125,12 +171,12 @@
                 "https://developer.mozilla.org/fr/docs/Web/JavaScript"
             ],
             [
-                "JSON",
-                "https://www.json.org/json-en.html"
-            ],
-            [
                 "particles.js",
                 "https://vincentgarreau.com/particles.js/"
+            ],
+            [
+                "JSON",
+                "https://www.json.org/json-en.html"
             ]
         ],
         "type": "personnel",
