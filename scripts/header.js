@@ -82,6 +82,15 @@ skill.addEventListener('mouseover', function () {
     set_color_mouseover(skill);
 });
 
+var experiences = document.querySelector('.experiences a');
+
+experiences.addEventListener('mouseout', function () {
+    set_color_mouseout(experiences);
+});
+skill.addEventListener('mouseover', function () {
+    set_color_mouseover(experiences);
+});
+
 var contact = document.querySelector('.contact a');
 
 contact.addEventListener('mouseout', function () {

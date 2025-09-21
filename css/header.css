@@ -121,6 +121,11 @@
     animation: fadeInUp 2.0s ease forwards;
 }
 
+.menu li:nth-child(6) {
+    transition-delay: 2.25s;
+    animation: fadeInUp 2.25s ease forwards;
+}
+
 @keyframes fadeInUp {
     to {
         opacity: 1;
