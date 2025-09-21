@@ -1,5 +1,27 @@
 const projects_data = [
     {
+        "titre": "Projet guerre froide",
+        "date": "2024 - En cours",
+        "description": "Uun jeu de grande stratégie se déroulant pendant la guerre froide. Il s'agit d'une version open-source du jeu jamais publié « East vs West » de Paradox Interactive, visant à offrir une simulation plus réaliste de l'économie, un système politique et juridique refondu, ainsi que des mécaniques de guerre simplifiées.",
+        "techno": [
+            [
+                "Java",
+                "https://dev.java/"
+            ],
+            [
+                "LibGDX",
+                "https://libgdx.com/"
+            ],
+            [
+                "WebGPU",
+                "https://developer.mozilla.org/en-US/docs/Web/API/WebGPU_API"
+            ]
+        ],
+        "demo": "media/demo/projet_guerre_froide_demo.gif",
+        "type": "personnel",
+        "github_link": "https://github.com/elebras1/ChatEnLigne"
+    },
+    {
         "titre": "ChatDistribué",
         "date": "2024",
         "description": "C'est un projet de Chat distribué en Java qui permet à plusieurs utilisateurs de communiquer en temps réel avec le protocole tcp/ip. Le projet a été réalisé en duo.",

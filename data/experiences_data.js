@@ -1,4 +1,36 @@
 const experiences_data = [
+        {
+        "titre": "Stage développeur java sur le projet Meteor de l'équipe ARI",
+        "date": "5 mois du 31/03/2025 au 28/08/2025",
+        "description": "",
+        "techno": [
+            [
+                "Java",
+                "https://dev.java/"
+            ],
+            [
+                "Spring Boot",
+                "https://spring.io/projects/spring-boot"
+            ],
+            [
+                "GWT",
+                "https://www.gwtproject.org/"
+            ],
+            [
+                "IBM MQ",
+                "https://www.ibm.com/docs/en/ibm-mq/"
+            ],
+            [
+                "Apache Thrift",
+                "https://thrift.apache.org/tutorial/java"
+            ],
+            [
+                "SQL",
+                "https://sql.sh/"
+            ]
+        ],
+        "demo": "media/demo/credit_mutuel_arkea.webp"
+    },
     {
         "titre": "Stage développeur web pour le projet Ecoflux-Bretagne de l'Institut Universitaire Européen de la Mer",
         "date": "2 mois du 15/04/2024 au 14/06/2024",
