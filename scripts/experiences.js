@@ -1,5 +1,3 @@
-let experiences_data = [];
-
 function color_skills() {
     var techno_elements = document.getElementsByClassName("techno");
     for (var i = 0; i < techno_elements.length; i++) {
@@ -60,12 +58,6 @@ function generate_experiences(data) {
     }
 }
 
-fetch('./data/experiences_data.json')
-    .then(response => response.json())
-    .then(data => {
-        experiences_data = data;
-        generate_experiences(data);
-    })
-    .catch(error => console.error(error));
+generate_experiences(experiences_data);
 
 window.addEventListener("resize", update_background_images);

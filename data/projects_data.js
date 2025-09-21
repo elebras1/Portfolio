@@ -1,4 +1,4 @@
-[
+const projects_data = [
     {
         "titre": "ChatDistribué",
         "date": "2024",

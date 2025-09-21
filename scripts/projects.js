@@ -1,5 +1,3 @@
-let projects_data = [];
-
 function color_skills() {
     var techno_elements = document.getElementsByClassName("techno");
     for (var i = 0; i < techno_elements.length; i++) {
@@ -61,12 +59,6 @@ function generate_projects(data) {
     }
 }
 
-fetch('./data/projects_data.json')
-    .then(response => response.json())
-    .then(data => {
-        projects_data = data;
-        generate_projects(data);
-    })
-    .catch(error => console.error(error));
+generate_projects(projects_data);
 
 window.addEventListener("resize", update_background_images);

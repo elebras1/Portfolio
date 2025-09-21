@@ -1,4 +1,4 @@
-[
+const experiences_data = [
     {
         "titre": "Stage développeur web pour le projet Ecoflux-Bretagne de l'Institut Universitaire Européen de la Mer",
         "date": "2 mois du 15/04/2024 au 14/06/2024",

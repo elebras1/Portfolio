@@ -1,4 +1,4 @@
-[
+const skills_data = [
     {
         "nom": "Java",
         "type": "language_back",

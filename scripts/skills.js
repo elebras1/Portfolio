@@ -45,10 +45,6 @@ function generate_skills(data) {
     }
 }
 
-fetch('./data/skills_data.json')
-    .then(response => response.json())
-    .then(data => {
-        generate_skills(data);
-    })
-    .catch(error => console.error(error));
+
+generate_skills(skills_data);
 
