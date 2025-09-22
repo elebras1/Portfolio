@@ -1,8 +1,8 @@
 const projects_data = [
     {
         "titre": "Projet guerre froide",
-        "date": "2024 - En cours",
-        "description": "Uun jeu de grande stratégie se déroulant pendant la guerre froide. Il s'agit d'une version open-source du jeu jamais publié « East vs West » de Paradox Interactive, visant à offrir une simulation plus réaliste de l'économie, un système politique et juridique refondu, ainsi que des mécaniques de guerre simplifiées.",
+        "date": "En cours",
+        "description": "Un jeu de grande stratégie se déroulant pendant la guerre froide. Il s'agit d'une version open-source du jeu jamais publié « East vs West » de Paradox Interactive, visant à offrir une simulation plus réaliste de l'économie, un système politique et juridique refondu, ainsi que des mécaniques de guerre simplifiées.",
         "techno": [
             [
                 "Java",

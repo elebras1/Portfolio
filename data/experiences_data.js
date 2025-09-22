@@ -1,8 +1,8 @@
 const experiences_data = [
         {
-        "titre": "Stage développeur java sur le projet Meteor de l'équipe ARI",
+        "titre": "Stage M1 développeur java pour le projet Meteor de l'équipe ARI",
         "date": "5 mois du 31/03/2025 au 28/08/2025",
-        "description": "",
+        "description": "Dans le cadre du projet Meteor au sein de l'équipe ARI, j'ai eu comme mission la migration de fonctionnalités d'un webservice RPC vers une API REST. Ce projet prend part dans le domaine des risques de crédits et plus précisément le suivi créances incidentées. Le projet avait déjà été amorcé, j'ai contribué à la spécification technique et au développement des fonctionnalités. Cette expérience a consolidé mes compétences en développement backend, développer ma capacité à reprendre un projet en cours et à collaborer efficacement au sein d'une équipe agile, en participant aux rituels SCRUM.",
         "techno": [
             [
                 "Java",
@@ -32,9 +32,9 @@ const experiences_data = [
         "demo": "media/demo/credit_mutuel_arkea.webp"
     },
     {
-        "titre": "Stage développeur web pour le projet Ecoflux-Bretagne de l'Institut Universitaire Européen de la Mer",
+        "titre": "Stage L3 développeur web pour le projet Ecoflux-Bretagne de l'Institut Universitaire Européen de la Mer",
         "date": "2 mois du 15/04/2024 au 14/06/2024",
-        "description": "J'ai réalisé le back-end et le front-end de l'application web Ecoflux-Bretagne. Le projet Ecoflux-Bretagne déploie des sondes multi-paramètres autonomes pour collecter des données sur la qualité de l'eau dans diverses rivières de Bretagne. Divers acteurs renseignent de manière différente les données recueillies sur les sondes. Toutes les données recueillies sont centralisées dans une base de données accessible au grand public.",
+        "description": "Dans le cadre du projet Ecoflux-Bretagne, j'ai eu pour mission de concevoir une application web permettant de centraliser et rendre accessibles au grand public des données environnementales provenant de rivières de Bretagne, recueillies par des sondes du projet Ecoflux-Bretagne. J'ai concu et développé le back-end et le front-end de l'application. J'ai directement échangé avec le client final, ce qui m'a permis de bien comprendre ses besoins et de m'ajuster lors du dévelopement. Cette expérience m'a permis de consolidé mes compétences en développement full-stack, de développer mon autonomie et de comprendre les enjeux liés au client.",
         "techno": [
             [
                 "Python",
