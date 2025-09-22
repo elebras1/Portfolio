@@ -19,7 +19,7 @@ const projects_data = [
         ],
         "demo": "media/demo/projet_guerre_froide_demo.gif",
         "type": "personnel",
-        "github_link": "https://github.com/elebras1/ChatEnLigne"
+        "github_link": "https://github.com/elebras1/Projet-Guerre-Froide/tree/main"
     },
     {
         "titre": "ChatDistribué",
